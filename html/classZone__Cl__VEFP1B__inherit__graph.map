@@ -1,0 +1,8 @@
+<map id="Zone_Cl_VEFP1B" name="Zone_Cl_VEFP1B">
+<area shape="rect" id="node1" title=" " alt="" coords="23,304,155,331"/>
+<area shape="rect" id="node2" href="$classZone__Cl__VEF.html" title=" " alt="" coords="35,229,142,256"/>
+<area shape="rect" id="node3" href="$classZone__Cl__dis__base.html" title="classe Zone_Cl_dis_base Les objets Zone_Cl_dis_base representent les conditions aux limites discretis..." alt="" coords="19,155,158,181"/>
+<area shape="rect" id="node4" href="$classMorEqn.html" title="classe MorEqn Classe qui regroupe les fonctionnalites de liaison avec une Equation...." alt="" coords="5,80,76,107"/>
+<area shape="rect" id="node5" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="101,80,175,107"/>
+<area shape="rect" id="node6" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="102,5,174,32"/>
+</map>

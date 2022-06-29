@@ -1,0 +1,9 @@
+<map id="Champ_front" name="Champ_front">
+<area shape="rect" id="node1" title="classe Champ_front Classe generique de la hierarchie des champs aux frontieres, un objet Champ_front ..." alt="" coords="131,379,237,405"/>
+<area shape="rect" id="node2" href="$classDeriv__Champ__front__base.html" title=" " alt="" coords="5,304,192,331"/>
+<area shape="rect" id="node3" href="$classDeriv__.html" title="Type de base de tous les types DERIV(TYPE). La classe est vide, elle sert de couche intermediaire pou..." alt="" coords="67,229,131,256"/>
+<area shape="rect" id="node4" href="$classO__U__Ptr.html" title="Pointeur sur un Objet_U. Le constructeur par defaut construit un pointeur &quot;nul&quot;. O_U_Ptr_H." alt="" coords="61,155,136,181"/>
+<area shape="rect" id="node5" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="61,80,136,107"/>
+<area shape="rect" id="node6" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="63,5,135,32"/>
+<area shape="rect" id="node7" href="$classChamp__Proto.html" title="classe Champ_Proto Classe representant un prototype de Champ. Tous les classes representant des champ..." alt="" coords="216,304,325,331"/>
+</map>

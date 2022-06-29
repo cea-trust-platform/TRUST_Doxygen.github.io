@@ -1,0 +1,9 @@
+<map id="Flux_interfacial_base" name="Flux_interfacial_base">
+<area shape="rect" id="node1" title="classe Flux_interfacial_base correlations de flux de chaleur interfacial de la forme Phi_{kl} = h_{kl..." alt="" coords="97,229,258,256"/>
+<area shape="rect" id="node6" href="$classFlux__interfacial__Coef__Constant.html" title="Flux interfacial a coefficient constant par phase." alt="" coords="5,304,165,345"/>
+<area shape="rect" id="node7" href="$classFlux__interfacial__Ranz__Marshall.html" title="Flux interfacial a coefficient constant par phase." alt="" coords="189,304,352,345"/>
+<area shape="rect" id="node2" href="$classCorrelation__base.html" title=" " alt="" coords="111,155,243,181"/>
+<area shape="rect" id="node3" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="60,80,135,107"/>
+<area shape="rect" id="node4" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="61,5,133,32"/>
+<area shape="rect" id="node5" href="$classChamps__compris__interface.html" title="classe Champs_compris_interface Cette classe contient une interface de methodes destinees a gerer les..." alt="" coords="158,80,357,107"/>
+</map>

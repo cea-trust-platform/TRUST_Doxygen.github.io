@@ -1,0 +1,12 @@
+<map id="Frottement_interfacial_base" name="Frottement_interfacial_base">
+<area shape="rect" id="node1" title="classe Frottement_interfacial_base utilitaire pour les operateurs de frottement interfacial prenant l..." alt="" coords="552,143,757,170"/>
+<area shape="rect" id="node6" href="$classFrottement__interfacial__Sonnenburg.html" title="classe Frottement_interfacial_Sonnenburg coefficients de frottement interfacial correspondant a la co..." alt="" coords="805,5,972,47"/>
+<area shape="rect" id="node7" href="$classFrottement__interfacial__Tomiyama.html" title="classe Frottement_interfacial_Tomiyama coefficients de frottement interfacial d&#39;un ecoulement a bulle..." alt="" coords="805,71,972,112"/>
+<area shape="rect" id="node8" href="$classFrottement__interfacial__Wallis.html" title="classe Frottement_interfacial_Wallis coefficients de frottement interfacial d&#39;un ecoulement annulaire..." alt="" coords="805,136,972,177"/>
+<area shape="rect" id="node9" href="$classFrottement__interfacial__Weber.html" title="classe Frottement_interfacial_Wallis coefficients de frottement interfacial d&#39;un ecoulement annulaire..." alt="" coords="805,201,972,243"/>
+<area shape="rect" id="node10" href="$classFrottement__interfacial__bulles.html" title="classe Frottement_interfacial_bulles coefficients de frottement interfacial d&#39;un ecoulement a bulles ..." alt="" coords="805,267,972,308"/>
+<area shape="rect" id="node2" href="$classCorrelation__base.html" title=" " alt="" coords="372,143,504,170"/>
+<area shape="rect" id="node3" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="187,118,262,145"/>
+<area shape="rect" id="node4" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="5,118,77,145"/>
+<area shape="rect" id="node5" href="$classChamps__compris__interface.html" title="classe Champs_compris_interface Cette classe contient une interface de methodes destinees a gerer les..." alt="" coords="125,169,324,195"/>
+</map>

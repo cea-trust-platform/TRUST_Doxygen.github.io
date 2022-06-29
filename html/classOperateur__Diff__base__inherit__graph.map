@@ -1,0 +1,81 @@
+<map id="Operateur_Diff_base" name="Operateur_Diff_base">
+<area shape="rect" id="node1" title="classe Operateur_Diff_base Cette classe est la base de la hierarchie des operateurs representant un t..." alt="" coords="595,481,749,508"/>
+<area shape="rect" id="node8" href="$classOp__Diff__EF__base.html" title="class Op_Diff_EF_base Classe de base des operateurs de diffusion EF" alt="" coords="830,56,961,83"/>
+<area shape="rect" id="node14" href="$classOp__Diff__P1NC__barprim.html" title="class Op_Diff_VEF_Face Cette classe represente l&#39;operateur de diffusion La discretisation est VEF Le ..." alt="" coords="810,305,981,332"/>
+<area shape="rect" id="node15" href="$classOp__Diff__PolyMAC__P0__base.html" title="class Op_Diff_PolyMAC_P0_base Classe de base des operateurs de diffusion PolyMAC_P0" alt="" coords="797,356,993,383"/>
+<area shape="rect" id="node21" href="$classOp__Diff__PolyMAC__base.html" title="class Op_Diff_PolyMAC_base Classe de base des operateurs de diffusion PolyMAC" alt="" coords="809,456,982,483"/>
+<area shape="rect" id="node24" href="$classOp__Diff__RotRot.html" title=" " alt="" coords="835,507,956,533"/>
+<area shape="rect" id="node25" href="$classOp__Diff__VDF__base.html" title="class Op_Diff_VDF_base Classe de base des operateurs de diffusion VDF" alt="" coords="824,696,967,723"/>
+<area shape="rect" id="node58" href="$classOp__Diff__VEF__base.html" title="class Op_Diff_VEF_base Classe de base des operateurs de convection VEF" alt="" coords="825,1379,965,1405"/>
+<area shape="rect" id="node78" href="$classOp__Diff__negligeable.html" title="Classe Op_Diff_negligeable Cette classe represente un operateur de diffusion negligeable...." alt="" coords="819,1505,972,1532"/>
+<area shape="rect" id="node2" href="$classOperateur__base.html" title="classe Operateur_base Classe est la base de la hierarchie des objets representant un operateur utilis..." alt="" coords="397,452,522,479"/>
+<area shape="rect" id="node3" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="187,401,262,428"/>
+<area shape="rect" id="node4" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="5,401,77,428"/>
+<area shape="rect" id="node5" href="$classMorEqn.html" title="classe MorEqn Classe qui regroupe les fonctionnalites de liaison avec une Equation...." alt="" coords="189,452,260,479"/>
+<area shape="rect" id="node6" href="$classChamps__compris__interface.html" title="classe Champs_compris_interface Cette classe contient une interface de methodes destinees a gerer les..." alt="" coords="125,503,324,529"/>
+<area shape="rect" id="node7" href="$classSupport__Champ__Masse__Volumique.html" title=" " alt="" coords="372,503,547,545"/>
+<area shape="rect" id="node9" href="$classOp__Diff__EF.html" title="class Op_Diff_EF Cette classe represente l&#39;operateur de diffusion La discretisation est EF Le champ d..." alt="" coords="1102,5,1195,32"/>
+<area shape="rect" id="node11" href="$classOp__Dift__EF__base.html" title="class Op_Dift_EF_base" alt="" coords="1083,56,1214,83"/>
+<area shape="rect" id="node10" href="$classOp__Diff__option__EF.html" title=" " alt="" coords="1343,5,1484,32"/>
+<area shape="rect" id="node12" href="$classOp__Dift__EF__Q1.html" title="class Op_Dift_EF_Q1 Cette classe represente l&#39;operateur de diffusion La discretisation est EF Le cham..." alt="" coords="1354,56,1473,83"/>
+<area shape="rect" id="node13" href="$classOp__Dift__EF__Q1__option.html" title=" " alt="" coords="1597,56,1763,83"/>
+<area shape="rect" id="node16" href="$classOp__Diff__PolyMAC__P0__Elem.html" title=": class Op_Diff_PolyMAC_P0_Elem &lt;Description of class Op_Diff_PolyMAC_P0_Elem&gt;" alt="" coords="1049,173,1248,200"/>
+<area shape="rect" id="node19" href="$classOp__Diff__PolyMAC__P0__Face.html" title=": class Op_Diff_PolyMAC_P0_Face &lt;Description of class Op_Diff_PolyMAC_P0_Face&gt;" alt="" coords="1051,281,1246,308"/>
+<area shape="rect" id="node17" href="$classOp__Diff__Turbulent__PolyMAC__P0__Elem.html" title=": class Op_Diff_Turbulent_PolyMAC_P0_Elem Version de Op_Diff_PolyMAC_P0_Elem prenant en compte l&#39;effe..." alt="" coords="1312,107,1515,149"/>
+<area shape="rect" id="node18" href="$classOp__Dift__PolyMAC__P0__Elem.html" title=" " alt="" coords="1314,173,1513,200"/>
+<area shape="rect" id="node20" href="$classOp__Diff__Turbulent__PolyMAC__P0__Face.html" title=": class Op_Diff_Turbulent_PolyMAC_P0_Face Operateur de diffusion de vitesse prenant en compte l&#39;effet..." alt="" coords="1312,225,1515,266"/>
+<area shape="rect" id="node22" href="$classOp__Diff__PolyMAC__Elem.html" title=": class Op_Diff_PolyMAC_Elem &lt;Description of class Op_Diff_PolyMAC_Elem&gt;" alt="" coords="1061,431,1236,457"/>
+<area shape="rect" id="node23" href="$classOp__Diff__PolyMAC__Face.html" title=": class Op_Diff_PolyMAC_Face &lt;Description of class Op_Diff_PolyMAC_Face&gt;" alt="" coords="1063,481,1234,508"/>
+<area shape="rect" id="node26" href="$classOp__Diff__VDF__Elem__base.html" title="class Op_Diff_VDF_Elem_base Cette classe represente l&#39;operateur de diffusion associe a une equation d..." alt="" coords="1057,557,1240,584"/>
+<area shape="rect" id="node36" href="$classOp__Diff__VDF__Face__base.html" title="class Op_Diff_VDF_Face_base Cette classe represente l&#39;operateur de diffusion associe a une equation d..." alt="" coords="1059,833,1238,860"/>
+<area shape="rect" id="node42" href="$classOp__Dift__VDF__base.html" title=" " alt="" coords="1077,960,1220,987"/>
+<area shape="rect" id="node27" href="$classOp__Diff__VDF__Elem.html" title="!&lt;" alt="" coords="1341,291,1485,317"/>
+<area shape="rect" id="node28" href="$classOp__Diff__VDF__Elem__Axi.html" title="class Op_Diff_VDF_Elem_Axi Cette classe represente l&#39;operateur de diffusion associe a une equation de..." alt="" coords="1327,341,1499,368"/>
+<area shape="rect" id="node29" href="$classOp__Diff__VDF__Multi__inco__Elem.html" title="class Op_Diff_VDF_Multi_inco_Elem Cette classe represente l&#39;operateur de diffusion associe a une equa..." alt="" coords="1304,392,1523,419"/>
+<area shape="rect" id="node30" href="$classOp__Diff__VDF__Multi__inco__Elem__Axi.html" title="class Op_Diff_VDF_Multi_inco_Elem_Axi Cette classe represente l&#39;operateur de diffusion associe a une ..." alt="" coords="1324,443,1503,485"/>
+<area shape="rect" id="node31" href="$classOp__Diff__VDF__Multi__inco__var__Elem.html" title="class Op_Diff_VDF_Multi_inco_var_Elem Cette classe represente l&#39;operateur de diffusion associe a une ..." alt="" coords="1324,509,1503,550"/>
+<area shape="rect" id="node32" href="$classOp__Diff__VDF__Multi__inco__var__Elem__Axi.html" title="class Op_Diff_VDF_Multi_inco_var_Elem_Axi Cette classe represente l&#39;operateur de diffusion associe a ..." alt="" coords="1324,574,1503,615"/>
+<area shape="rect" id="node33" href="$classOp__Diff__VDF__var__Elem.html" title="class Op_Diff_VDF_var_Elem Cette classe represente l&#39;operateur de diffusion associe a une equation de..." alt="" coords="1327,640,1499,667"/>
+<area shape="rect" id="node34" href="$classOp__Diff__VDF__var__Elem__Axi.html" title="class Op_Diff_VDF_var_Elem_Axi Cette classe represente l&#39;operateur de diffusion associe a une equatio..." alt="" coords="1313,691,1513,717"/>
+<area shape="rect" id="node35" href="$classOp__Diff__VDF__var__Elem__aniso.html" title="class Op_Diff_VDF_var_Elem_aniso Cette classe represente l&#39;operateur de diffusion associe a une equat..." alt="" coords="1327,742,1499,783"/>
+<area shape="rect" id="node37" href="$classOp__Diff__VDF__Face.html" title="!&lt;" alt="" coords="1343,808,1483,835"/>
+<area shape="rect" id="node38" href="$classOp__Diff__VDF__Face__Axi__base.html" title=" " alt="" coords="1310,859,1517,885"/>
+<area shape="rect" id="node41" href="$classOp__Diff__VDF__var__Face.html" title="class Op_Diff_VDF_var_Face Cette classe represente l&#39;operateur de diffusion associe a une equation de..." alt="" coords="1329,909,1497,936"/>
+<area shape="rect" id="node39" href="$classOp__Diff__VDF__Face__Axi.html" title="class Op_Diff_VDF_Face_Axi Cette classe represente l&#39;operateur de diffusion associe aux equations de ..." alt="" coords="1596,633,1764,660"/>
+<area shape="rect" id="node40" href="$classOp__Diff__VDF__var__Face__Axi.html" title="class Op_Diff_VDF_var_Face_Axi Cette classe represente l&#39;operateur de diffusion associe aux equations..." alt="" coords="1582,684,1778,711"/>
+<area shape="rect" id="node43" href="$classOp__Dift__VDF__Elem__base.html" title=" " alt="" coords="1322,960,1505,987"/>
+<area shape="rect" id="node52" href="$classOp__Dift__VDF__Face__base.html" title=" " alt="" coords="1324,1205,1503,1232"/>
+<area shape="rect" id="node44" href="$classOp__Dift__VDF__Elem.html" title=" " alt="" coords="1608,735,1752,761"/>
+<area shape="rect" id="node45" href="$classOp__Dift__VDF__Elem__Axi.html" title=" " alt="" coords="1594,785,1766,812"/>
+<area shape="rect" id="node46" href="$classOp__Dift__VDF__Multi__inco__Elem.html" title=" " alt="" coords="1571,836,1789,863"/>
+<area shape="rect" id="node47" href="$classOp__Dift__VDF__Multi__inco__Elem__Axi.html" title=" " alt="" coords="1591,887,1769,929"/>
+<area shape="rect" id="node48" href="$classOp__Dift__VDF__Multi__inco__var__Elem.html" title=" " alt="" coords="1591,953,1769,994"/>
+<area shape="rect" id="node49" href="$classOp__Dift__VDF__Multi__inco__var__Elem__Axi.html" title=" " alt="" coords="1591,1018,1769,1059"/>
+<area shape="rect" id="node50" href="$classOp__Dift__VDF__var__Elem.html" title=" " alt="" coords="1594,1084,1766,1111"/>
+<area shape="rect" id="node51" href="$classOp__Dift__VDF__var__Elem__Axi.html" title=" " alt="" coords="1580,1135,1780,1161"/>
+<area shape="rect" id="node53" href="$classOp__Dift__VDF__Face.html" title=" " alt="" coords="1610,1185,1750,1212"/>
+<area shape="rect" id="node54" href="$classOp__Dift__VDF__Face__Axi__base.html" title=" " alt="" coords="1577,1236,1783,1263"/>
+<area shape="rect" id="node57" href="$classOp__Dift__VDF__var__Face.html" title=" " alt="" coords="1596,1287,1764,1313"/>
+<area shape="rect" id="node55" href="$classOp__Dift__VDF__Face__Axi.html" title=" " alt="" coords="1855,1211,2023,1237"/>
+<area shape="rect" id="node56" href="$classOp__Dift__VDF__var__Face__Axi.html" title=" " alt="" coords="1841,1261,2037,1288"/>
+<area shape="rect" id="node59" href="$classOp__Diff__VEF__Anisotrope__Face.html" title=": class Op_Diff_VEF_Anisotrope_Face &lt;Description of class Op_Diff_VEF_Anisotrope_Face&gt;" alt="" coords="1041,1328,1256,1355"/>
+<area shape="rect" id="node60" href="$classOp__Diff__VEF__Face.html" title="class Op_Diff_VEF_Face Cette classe represente l&#39;operateur de diffusion La discretisation est VEF Le ..." alt="" coords="1079,1379,1218,1405"/>
+<area shape="rect" id="node67" href="$classOp__Diff__VEF__Face__Q1.html" title="class Op_Diff_VEF_Face_Q1_Q1 Cette classe represente l&#39;operateur de diffusion La discretisation est V..." alt="" coords="1067,1455,1230,1481"/>
+<area shape="rect" id="node69" href="$classOp__Dift__VEF__base.html" title="class Op_Dift_VEF_base" alt="" coords="1079,1531,1219,1557"/>
+<area shape="rect" id="node61" href="$classOp__Diff__VEFP1NCP1B__Face.html" title="class Op_Diff_VEF_Face Cette classe represente l&#39;operateur de diffusion La discretisation est VEF Le ..." alt="" coords="1314,1277,1513,1304"/>
+<area shape="rect" id="node63" href="$classOp__Diff__VEF__Face__Penalise.html" title=" " alt="" coords="1313,1328,1513,1355"/>
+<area shape="rect" id="node64" href="$classOp__Diff__VEF__Face__Stab.html" title="class Op_Diff_VEF_Face_Stab Cette classe represente l&#39;operateur de diffusion La discretisation est VE..." alt="" coords="1326,1379,1501,1405"/>
+<area shape="rect" id="node66" href="$classOp__Diff__VEF__Face__Var.html" title="class Op_Diff_VEF_Face_Var Cette classe represente l&#39;operateur de diffusion La discretisation est VEF..." alt="" coords="1330,1429,1497,1456"/>
+<area shape="rect" id="node62" href="$classOp__Diff__VEFP1NCP1B__Face__Var.html" title="class Op_Diff_VEFP1NCP1B_Face_Var Cette classe represente l&#39;operateur de diffusion La discretisation ..." alt="" coords="1599,1338,1761,1379"/>
+<area shape="rect" id="node65" href="$classOp__Diff__VEF__Face__Stab__Var.html" title="class Op_Diff_VEF_Face_Stab_Var Cette classe represente l&#39;operateur de diffusion La discretisation es..." alt="" coords="1579,1404,1781,1431"/>
+<area shape="rect" id="node68" href="$classOp__Diff__VEF__Face__Var__Q1.html" title="class Op_Diff_VEF_Face_Var_Q1 Cette classe represente l&#39;operateur de diffusion La discretisation est ..." alt="" coords="1318,1480,1509,1507"/>
+<area shape="rect" id="node70" href="$classOp__Dift__VEF__Face.html" title="class Op_Dift_VEF_Face" alt="" coords="1344,1531,1483,1557"/>
+<area shape="rect" id="node76" href="$classOp__Dift__VEF__Face__Q1.html" title="class Op_Dift_VEF_FaceQ1" alt="" coords="1332,1581,1495,1608"/>
+<area shape="rect" id="node77" href="$classOp__Dift__VEF__P1NCP1B__Face.html" title="class Op_Dift_VEF_P1NCP1B_Face Cette classe represente l&#39;operateur de diffusion La discretisation est..." alt="" coords="1311,1632,1516,1659"/>
+<area shape="rect" id="node71" href="$classOp__Dift__Stab__VEF__Face.html" title="class Op_Dift_Stab_VEF_Face" alt="" coords="1593,1480,1767,1507"/>
+<area shape="rect" id="node73" href="$classOp__Dift__VEF__Face__Var.html" title="class Op_Dift_VEF_Face_Var" alt="" coords="1597,1531,1763,1557"/>
+<area shape="rect" id="node74" href="$classOp__Dift__standard__VEF__Face.html" title="class Op_Dift_standard_VEF_Face" alt="" coords="1579,1581,1781,1608"/>
+<area shape="rect" id="node72" href="$classOp__Dift__Stab__VEF__Face__Var.html" title="class Op_Dift_Stab_VEF_Face_Var" alt="" coords="1837,1480,2040,1507"/>
+<area shape="rect" id="node75" href="$classOp__Dift__standard__VEF__Face__Var.html" title="class Op_Dift_standard_VEF_Face_Var" alt="" coords="1855,1574,2022,1615"/>
+<area shape="rect" id="node79" href="$classOp__Dift__negligeable.html" title=" " alt="" coords="1072,1581,1225,1608"/>
+</map>

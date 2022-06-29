@@ -1,0 +1,11 @@
+<map id="Champ_Face_PolyMAC" name="Champ_Face_PolyMAC">
+<area shape="rect" id="node1" title=": class Champ_Face_PolyMAC Champ correspondant a une inconnue decrite par ses flux aux faces (type vi..." alt="" coords="83,379,253,405"/>
+<area shape="rect" id="node9" href="$classChamp__Face__PolyMAC__P0.html" title=": class Champ_Face_PolyMAC_P0 Champ correspondant a une inconnue decrite par ses tangentes aux faces ..." alt="" coords="72,453,264,480"/>
+<area shape="rect" id="node2" href="$classChamp__Inc__base.html" title="Classe Champ_Inc_base Classe de base des champs inconnues qui sont les champs calcules par une equati..." alt="" coords="102,304,234,331"/>
+<area shape="rect" id="node3" href="$classChamp__base.html" title="classe Champ_base Cette classe est la base de la hierarchie des champs. Ses membres sont les attribut..." alt="" coords="59,229,165,256"/>
+<area shape="rect" id="node4" href="$classField__base.html" title=" " alt="" coords="5,155,96,181"/>
+<area shape="rect" id="node5" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="13,80,88,107"/>
+<area shape="rect" id="node6" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="15,5,87,32"/>
+<area shape="rect" id="node7" href="$classChamp__Proto.html" title="classe Champ_Proto Classe representant un prototype de Champ. Tous les classes representant des champ..." alt="" coords="120,155,229,181"/>
+<area shape="rect" id="node8" href="$classMorEqn.html" title="classe MorEqn Classe qui regroupe les fonctionnalites de liaison avec une Equation...." alt="" coords="190,229,261,256"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Champ_Generique_Statistiques" name="Champ_Generique_Statistiques">
+<area shape="rect" id="node1" title=": Cette classe sert a representer n&#39;importe quelle classe derivee de la classe Champ_Generique_Statis..." alt="" coords="5,393,232,420"/>
+<area shape="rect" id="node2" href="$classDeriv__Champ__Generique__Statistiques__base.html" title=" " alt="" coords="27,304,211,345"/>
+<area shape="rect" id="node3" href="$classDeriv__.html" title="Type de base de tous les types DERIV(TYPE). La classe est vide, elle sert de couche intermediaire pou..." alt="" coords="87,229,151,256"/>
+<area shape="rect" id="node4" href="$classO__U__Ptr.html" title="Pointeur sur un Objet_U. Le constructeur par defaut construit un pointeur &quot;nul&quot;. O_U_Ptr_H." alt="" coords="81,155,156,181"/>
+<area shape="rect" id="node5" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="81,80,156,107"/>
+<area shape="rect" id="node6" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="83,5,155,32"/>
+</map>

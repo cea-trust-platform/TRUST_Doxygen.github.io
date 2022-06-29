@@ -1,0 +1,12 @@
+<map id="Echange_externe_impose" name="Echange_externe_impose">
+<area shape="rect" id="node1" title="Classe Echange_externe_impose: Cette classe represente le cas particulier de la classe Echange_impose..." alt="" coords="636,81,825,108"/>
+<area shape="rect" id="node6" href="$classEchange__contact__PolyMAC.html" title=" " alt="" coords="885,5,1082,32"/>
+<area shape="rect" id="node7" href="$classEchange__contact__PolyMAC__P0.html" title=" " alt="" coords="873,56,1093,83"/>
+<area shape="rect" id="node8" href="$classEchange__externe__impose__H.html" title="Classe Echange_externe_impose_H: Cette classe represente le cas particulier de la classe Echange_exte..." alt="" coords="880,107,1087,133"/>
+<area shape="rect" id="node9" href="$classEchange__interne__impose.html" title="Classe Echange_interne_impose: Cette classe represente le cas particulier de la classe Echange_extern..." alt="" coords="891,157,1076,184"/>
+<area shape="rect" id="node2" href="$classEchange__impose__base.html" title="classe Echange_impose_base: Cette condition limite sert uniquement pour l&#39;equation d&#39;energie...." alt="" coords="417,81,588,108"/>
+<area shape="rect" id="node3" href="$classCond__lim__base.html" title="classe Cond_lim_base Classe de base pour la hierarchie des classes qui representent les differentes c..." alt="" coords="248,81,369,108"/>
+<area shape="rect" id="node4" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="125,81,200,108"/>
+<area shape="rect" id="node5" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="5,81,77,108"/>
+<area shape="rect" id="node10" href="$classEchange__interne__parfait.html" title="Classe Echange_interne_parfait: Cette classe represente le cas particulier de la classe Echange_inter..." alt="" coords="1141,157,1321,184"/>
+</map>

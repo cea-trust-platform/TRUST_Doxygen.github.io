@@ -1,0 +1,8 @@
+<map id="Esp_Dist" name="Esp_Dist">
+<area shape="rect" id="node1" title="Espace distant utilise pour la gestion des tableaux distribues Cette classe permet de decrire un espa..." alt="" coords="39,399,118,425"/>
+<area shape="rect" id="node2" href="$classTRUSTArray.html" title=" " alt="" coords="5,323,152,349"/>
+<area shape="rect" id="node3" href="$classArray__base.html" title=": classe vide servant de base a tous les tableaux. (permet de passer un type generique quel que soit ..." alt="" coords="26,157,121,184"/>
+<area shape="rect" id="node6" href="$classTRUSTArray.html" title="Represente un tableau d&#39;elements de type int/double/float. L&#39;etat du tableau est caracterise par la v..." alt="" coords="95,233,270,260"/>
+<area shape="rect" id="node4" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="36,81,111,108"/>
+<area shape="rect" id="node5" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="37,5,109,32"/>
+</map>

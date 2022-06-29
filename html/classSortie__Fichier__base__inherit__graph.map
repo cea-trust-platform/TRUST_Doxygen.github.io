@@ -1,0 +1,13 @@
+<map id="Sortie_Fichier_base" name="Sortie_Fichier_base">
+<area shape="rect" id="node1" title=" " alt="" coords="227,155,375,181"/>
+<area shape="rect" id="node5" href="$classSFichier.html" title="Cette classe est a la classe C++ ofstream ce que la classe Sortie est a la classe C++ ostream Elle re..." alt="" coords="264,229,337,256"/>
+<area shape="rect" id="node2" href="$classSortie.html" title="Classe de base des flux de sortie. Elle sait ecrire des types simples&lt;br&gt;(entiers,..." alt="" coords="225,80,285,107"/>
+<area shape="rect" id="node3" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="310,80,385,107"/>
+<area shape="rect" id="node4" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="311,5,383,32"/>
+<area shape="rect" id="node6" href="$classEcrFicCollecte.html" title="Ecriture dans un fichier Cette classe implemente les operateurs et les methodes virtuelles de la clas..." alt="" coords="27,304,140,331"/>
+<area shape="rect" id="node8" href="$classEcrFicPartage.html" title=" " alt="" coords="170,304,279,331"/>
+<area shape="rect" id="node10" href="$classEcrFicPartageMPIIO.html" title="Class to use MPI&#45;IO to write in a single file." alt="" coords="303,304,450,331"/>
+<area shape="rect" id="node11" href="$classSFichierBin.html" title="Ecriture dans un fichier d&#39;objets ecrits au format binaire." alt="" coords="475,304,569,331"/>
+<area shape="rect" id="node7" href="$classEcrFicCollecteBin.html" title="Ecriture dans un fichier au format binaire Cette classe implemente les operateurs et les methodes vir..." alt="" coords="5,379,140,405"/>
+<area shape="rect" id="node9" href="$classEcrFicPartageBin.html" title="Ecriture dans un fichier partage Cette classe derive de Ecr_Fic_Par, en utilisant une sortie en binai..." alt="" coords="165,379,295,405"/>
+</map>

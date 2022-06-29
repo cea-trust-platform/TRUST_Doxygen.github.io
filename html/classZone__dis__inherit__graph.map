@@ -1,0 +1,8 @@
+<map id="Zone_dis" name="Zone_dis">
+<area shape="rect" id="node1" title="classe Zone_dis Classe generique de la hierarchie des zones discretisees. Un objet de type Zone_dis p..." alt="" coords="45,379,127,405"/>
+<area shape="rect" id="node2" href="$classDeriv__Zone__dis__base.html" title=" " alt="" coords="5,304,167,331"/>
+<area shape="rect" id="node3" href="$classDeriv__.html" title="Type de base de tous les types DERIV(TYPE). La classe est vide, elle sert de couche intermediaire pou..." alt="" coords="54,229,118,256"/>
+<area shape="rect" id="node4" href="$classO__U__Ptr.html" title="Pointeur sur un Objet_U. Le constructeur par defaut construit un pointeur &quot;nul&quot;. O_U_Ptr_H." alt="" coords="49,155,123,181"/>
+<area shape="rect" id="node5" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="49,80,123,107"/>
+<area shape="rect" id="node6" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="50,5,122,32"/>
+</map>

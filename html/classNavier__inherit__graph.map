@@ -1,0 +1,10 @@
+<map id="Navier" name="Navier">
+<area shape="rect" id="node1" title="classe Navier Condition aux limites sur la vitesse de type &quot;Navier&quot; : &#45; composante normale de la vite..." alt="" coords="225,229,291,256"/>
+<area shape="rect" id="node5" href="$classFrottement__impose__base.html" title="Classe Frottement_impose_base Classe de base pour des conditions aux limites de type Navier (v...." alt="" coords="86,304,273,331"/>
+<area shape="rect" id="node8" href="$classSymetrie.html" title="classe Symetrie Sur les faces de symetrie on a les proprietes suivantes: &#45; composante normale de la v..." alt="" coords="297,304,379,331"/>
+<area shape="rect" id="node2" href="$classCond__lim__base.html" title="classe Cond_lim_base Classe de base pour la hierarchie des classes qui representent les differentes c..." alt="" coords="197,155,319,181"/>
+<area shape="rect" id="node3" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="221,80,295,107"/>
+<area shape="rect" id="node4" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="222,5,294,32"/>
+<area shape="rect" id="node6" href="$classFrottement__externe__impose.html" title="Classe Frottement_externe_impose Classe de base pour des conditions aux limites de type Navier (v...." alt="" coords="5,379,156,420"/>
+<area shape="rect" id="node7" href="$classFrottement__global__impose.html" title="Classe Frottement_global_impose Classe de base pour des conditions aux limites de type Navier (v...." alt="" coords="180,386,376,413"/>
+</map>

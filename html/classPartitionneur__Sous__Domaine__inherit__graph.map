@@ -1,0 +1,6 @@
+<map id="Partitionneur_Sous_Domaine" name="Partitionneur_Sous_Domaine">
+<area shape="rect" id="node1" title="Decoupeur permettant de decouper des sous&#45;domaines (se recouvrant potentiellement) crees par Create_d..." alt="" coords="5,229,148,271"/>
+<area shape="rect" id="node2" href="$classPartitionneur__base.html" title="Classe de base des partitionneurs de domaine&lt;br&gt;(pour decouper un maillage avant un calcul parallele)..." alt="" coords="5,155,148,181"/>
+<area shape="rect" id="node3" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="39,80,114,107"/>
+<area shape="rect" id="node4" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="41,5,113,32"/>
+</map>

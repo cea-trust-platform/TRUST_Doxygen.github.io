@@ -1,0 +1,7 @@
+<map id="Zone_VF_inst" name="Zone_VF_inst">
+<area shape="rect" id="node1" title="class Zone_VF_inst Classe instanciable qui derive de Zone_VF. Cette classe ne sait rien faire !..." alt="" coords="9,304,120,331"/>
+<area shape="rect" id="node2" href="$classZone__VF.html" title="class Zone_VF Cette classe abstraite contient les informations geometriques communes aux methodes de ..." alt="" coords="25,229,104,256"/>
+<area shape="rect" id="node3" href="$classZone__dis__base.html" title="classe Zone_dis_base Cette classe est la base de la hierarchie des zones discretisees...." alt="" coords="5,155,124,181"/>
+<area shape="rect" id="node4" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="27,80,102,107"/>
+<area shape="rect" id="node5" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="29,5,101,32"/>
+</map>

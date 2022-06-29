@@ -1,0 +1,7 @@
+<map id="List_Champ_Generique" name="List_Champ_Generique">
+<area shape="rect" id="node1" title="classe List_Champ_Generique Represente une liste de Champ_Generique" alt="" coords="9,229,181,256"/>
+<area shape="rect" id="node5" href="$classListe__Champ__Generique.html" title=" " alt="" coords="5,304,185,331"/>
+<area shape="rect" id="node2" href="$classliste.html" title="Les classes liste et liste_curseur representent une liste de Deriv&lt;Objet_U&gt; et un curseur associe...." alt="" coords="70,155,121,181"/>
+<area shape="rect" id="node3" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="58,80,133,107"/>
+<area shape="rect" id="node4" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="59,5,131,32"/>
+</map>

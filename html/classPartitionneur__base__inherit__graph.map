@@ -1,0 +1,15 @@
+<map id="Partitionneur_base" name="Partitionneur_base">
+<area shape="rect" id="node1" title="Classe de base des partitionneurs de domaine&lt;br&gt;(pour decouper un maillage avant un calcul parallele)..." alt="" coords="248,249,391,275"/>
+<area shape="rect" id="node4" href="$classPartitionneur__Fichier__Decoupage.html" title="Partition d&#39;un domaine a partir d&#39;un fichier disque contenant, pour chaque element,..." alt="" coords="457,5,612,47"/>
+<area shape="rect" id="node5" href="$classPartitionneur__Fichier__MED.html" title="Partition d&#39;un domaine a partir d&#39;un fichier MED contenant un champ donnant, pour chaque element,..." alt="" coords="439,71,631,98"/>
+<area shape="rect" id="node6" href="$classPartitionneur__Metis.html" title="Partition d&#39;un domaine en nb_parties parties equilibrees en utilisant la librairie METIS...." alt="" coords="461,122,609,149"/>
+<area shape="rect" id="node7" href="$classPartitionneur__Parmetis.html" title="Partition d&#39;un domaine en nb_parties parties equilibrees en utilisant la librairie PARMETIS...." alt="" coords="450,173,619,199"/>
+<area shape="rect" id="node8" href="$classPartitionneur__Partition.html" title="Partitionneur de domaine en fonction du partitionnement d&#39;un autre domaine." alt="" coords="451,223,618,250"/>
+<area shape="rect" id="node9" href="$classPartitionneur__Ptscotch.html" title="Partition d&#39;un domaine en nb_parties parties equilibrees en utilisant la librairie Ptscotch...." alt="" coords="451,274,618,301"/>
+<area shape="rect" id="node10" href="$classPartitionneur__Sous__Domaine.html" title="Decoupeur permettant de decouper des sous&#45;domaines (se recouvrant potentiellement) crees par Create_d..." alt="" coords="463,325,606,367"/>
+<area shape="rect" id="node11" href="$classPartitionneur__Sous__Zones.html" title="Partitionneur de domaine a partir de sous&#45;zones du domaine Voir construire_partition()" alt="" coords="463,391,606,432"/>
+<area shape="rect" id="node12" href="$classPartitionneur__Tranche.html" title="Partitionneur de domaine en tranches paralleles aux directions de l&#39;espace. Voir construire_partition..." alt="" coords="453,457,616,483"/>
+<area shape="rect" id="node13" href="$classPartitionneur__Union.html" title="Decoupeur permettant de decouper un domaine global de maniere conforme avec un ensemble de sous&#45;domai..." alt="" coords="459,507,610,534"/>
+<area shape="rect" id="node2" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="125,249,200,275"/>
+<area shape="rect" id="node3" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="5,249,77,275"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="DP_Impose" name="DP_Impose">
+<area shape="rect" id="node1" title="Classe DP_Impose Cette classe derivee de Perte_Charge_Singuliere est utilisee lorsque l&#39;on veut impos..." alt="" coords="56,155,151,181"/>
+<area shape="rect" id="node4" href="$classDP__Impose__PolyMAC__Face.html" title="class DP_Impose_PolyMAC_Face" alt="" coords="5,229,201,256"/>
+<area shape="rect" id="node2" href="$classPerte__Charge__Singuliere.html" title="Classe Perte_Charge_Singuliere Cette classe derivee de Perte_Charge est utilisee lorsque l&#39;on veut mo..." alt="" coords="13,80,194,107"/>
+<area shape="rect" id="node3" href="$classPerte__Charge.html" title="Classe Perte_Charge Cette classe represente un terme de perte de charge quiest introduit dans les equ..." alt="" coords="49,5,158,32"/>
+</map>

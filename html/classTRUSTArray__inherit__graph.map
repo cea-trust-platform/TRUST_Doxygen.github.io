@@ -1,0 +1,18 @@
+<map id="TRUSTArray&lt; _TYPE_ &gt;" name="TRUSTArray&lt; _TYPE_ &gt;">
+<area shape="rect" id="node1" title="Represente un tableau d&#39;elements de type int/double/float. L&#39;etat du tableau est caracterise par la v..." alt="" coords="489,233,663,260"/>
+<area shape="rect" id="node5" href="$classTRUSTArrayFT.html" title=" " alt="" coords="186,323,377,349"/>
+<area shape="rect" id="node6" href="$classTRUSTVect.html" title=" " alt="" coords="401,323,570,349"/>
+<area shape="rect" id="node14" href="$classTRUSTArray.html" title=" " alt="" coords="595,323,741,349"/>
+<area shape="rect" id="node16" href="$classTRUSTArray.html" title=" " alt="" coords="765,323,939,349"/>
+<area shape="rect" id="node2" href="$classArray__base.html" title=": classe vide servant de base a tous les tableaux. (permet de passer un type generique quel que soit ..." alt="" coords="529,157,623,184"/>
+<area shape="rect" id="node3" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="539,81,613,108"/>
+<area shape="rect" id="node4" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="540,5,612,32"/>
+<area shape="rect" id="node7" href="$classTRUSTTab.html" title=": Tableau a n entrees pour n&lt;= 4. Repose sur un TRUSTVect avec calculs de l&#39;indice corespondant" alt="" coords="232,412,395,439"/>
+<area shape="rect" id="node12" href="$classTRUSTVect.html" title=" " alt="" coords="419,412,559,439"/>
+<area shape="rect" id="node13" href="$classTRUSTVect.html" title=" " alt="" coords="583,412,750,439"/>
+<area shape="rect" id="node8" href="$classTRUSTTabFT.html" title=" " alt="" coords="5,501,184,528"/>
+<area shape="rect" id="node9" href="$classTRUSTTrav.html" title=": Tableau de travail a n entrees pour n&lt;= 4 C&#39;est un TRUSTTab avec allocation dans un pool de memoire..." alt="" coords="208,501,376,528"/>
+<area shape="rect" id="node10" href="$classTRUSTTab.html" title=" " alt="" coords="414,501,549,528"/>
+<area shape="rect" id="node11" href="$classTRUSTTab.html" title=" " alt="" coords="579,501,741,528"/>
+<area shape="rect" id="node15" href="$classEsp__Dist.html" title="Espace distant utilise pour la gestion des tableaux distribues Cette classe permet de decrire un espa..." alt="" coords="774,412,853,439"/>
+</map>

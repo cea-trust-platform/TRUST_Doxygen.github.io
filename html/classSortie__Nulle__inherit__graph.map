@@ -1,0 +1,4 @@
+<map id="Sortie_Nulle" name="Sortie_Nulle">
+<area shape="rect" id="node1" title="Classe derivee de Sortie qui ne sort les donnees nulle part (c&#39;est une poubelle) Classe utilisee dans..." alt="" coords="5,80,107,107"/>
+<area shape="rect" id="node2" href="$classSortie.html" title="Classe de base des flux de sortie. Elle sait ecrire des types simples&lt;br&gt;(entiers,..." alt="" coords="26,5,86,32"/>
+</map>

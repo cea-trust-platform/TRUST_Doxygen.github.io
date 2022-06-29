@@ -1,0 +1,8 @@
+<map id="Zone_Cl_dis" name="Zone_Cl_dis">
+<area shape="rect" id="node1" title="classe Zone_Cl_dis Classe generique de la hierarchie des conditions aux limites discretisees...." alt="" coords="45,379,147,405"/>
+<area shape="rect" id="node2" href="$classDeriv__Zone__Cl__dis__base.html" title=" " alt="" coords="5,304,187,331"/>
+<area shape="rect" id="node3" href="$classDeriv__.html" title="Type de base de tous les types DERIV(TYPE). La classe est vide, elle sert de couche intermediaire pou..." alt="" coords="64,229,128,256"/>
+<area shape="rect" id="node4" href="$classO__U__Ptr.html" title="Pointeur sur un Objet_U. Le constructeur par defaut construit un pointeur &quot;nul&quot;. O_U_Ptr_H." alt="" coords="59,155,133,181"/>
+<area shape="rect" id="node5" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="59,80,133,107"/>
+<area shape="rect" id="node6" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="60,5,132,32"/>
+</map>

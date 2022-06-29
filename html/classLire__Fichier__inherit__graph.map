@@ -1,0 +1,8 @@
+<map id="Lire_Fichier" name="Lire_Fichier">
+<area shape="rect" id="node1" title="class Lire_Fichier Lecture d&#39;un fichier" alt="" coords="109,229,205,256"/>
+<area shape="rect" id="node5" href="$classLire__Fichier__Bin.html" title="Lecture d&#39;un fichier au format binaire." alt="" coords="5,311,129,338"/>
+<area shape="rect" id="node6" href="$classRead__unsupported__ASCII__file__from__ICEM.html" title=" " alt="" coords="154,304,338,345"/>
+<area shape="rect" id="node2" href="$classInterprete.html" title="Classe de base des objets &quot;interprete&quot;. Ces objets definissent des actions a realiser lorsqu&#39;on les r..." alt="" coords="113,155,200,181"/>
+<area shape="rect" id="node3" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="119,80,194,107"/>
+<area shape="rect" id="node4" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="121,5,193,32"/>
+</map>

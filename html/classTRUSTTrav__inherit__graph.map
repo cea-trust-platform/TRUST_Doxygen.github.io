@@ -1,0 +1,9 @@
+<map id="TRUSTTrav&lt; _TYPE_ &gt;" name="TRUSTTrav&lt; _TYPE_ &gt;">
+<area shape="rect" id="node1" title=": Tableau de travail a n entrees pour n&lt;= 4 C&#39;est un TRUSTTab avec allocation dans un pool de memoire..." alt="" coords="9,453,177,480"/>
+<area shape="rect" id="node2" href="$classTRUSTTab.html" title=": Tableau a n entrees pour n&lt;= 4. Repose sur un TRUSTVect avec calculs de l&#39;indice corespondant" alt="" coords="11,379,174,405"/>
+<area shape="rect" id="node3" href="$classTRUSTVect.html" title=" " alt="" coords="8,304,177,331"/>
+<area shape="rect" id="node4" href="$classTRUSTArray.html" title="Represente un tableau d&#39;elements de type int/double/float. L&#39;etat du tableau est caracterise par la v..." alt="" coords="5,229,180,256"/>
+<area shape="rect" id="node5" href="$classArray__base.html" title=": classe vide servant de base a tous les tableaux. (permet de passer un type generique quel que soit ..." alt="" coords="45,155,140,181"/>
+<area shape="rect" id="node6" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="55,80,130,107"/>
+<area shape="rect" id="node7" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="57,5,129,32"/>
+</map>

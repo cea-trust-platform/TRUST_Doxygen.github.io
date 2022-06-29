@@ -1,0 +1,11 @@
+<map id="champ_init_canal_sinal" name="champ_init_canal_sinal">
+<area shape="rect" id="node1" title=" " alt="" coords="36,595,211,621"/>
+<area shape="rect" id="node2" href="$classTRUSTChamp__Divers__generique.html" title=" " alt="" coords="5,504,241,545"/>
+<area shape="rect" id="node3" href="$classChamp__Don__base.html" title=" " alt="" coords="49,309,187,336"/>
+<area shape="rect" id="node9" href="$classTRUSTChamp__Divers__generique.html" title=" " alt="" coords="140,385,371,427"/>
+<area shape="rect" id="node4" href="$classChamp__base.html" title="classe Champ_base Cette classe est la base de la hierarchie des champs. Ses membres sont les attribut..." alt="" coords="65,233,171,260"/>
+<area shape="rect" id="node5" href="$classField__base.html" title=" " alt="" coords="11,157,102,184"/>
+<area shape="rect" id="node6" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="19,81,94,108"/>
+<area shape="rect" id="node7" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="21,5,93,32"/>
+<area shape="rect" id="node8" href="$classChamp__Proto.html" title="classe Champ_Proto Classe representant un prototype de Champ. Tous les classes representant des champ..." alt="" coords="126,157,235,184"/>
+</map>

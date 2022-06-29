@@ -1,0 +1,7 @@
+<map id="Segment_axi" name="Segment_axi">
+<area shape="rect" id="node1" title=": class Segment_axi &lt;Description of class Segment_axi&gt;" alt="" coords="21,304,127,331"/>
+<area shape="rect" id="node2" href="$classSegment.html" title="Classe Segment Cette classe represente l&#39;element geometrique segment. Un segment a 1 face et 2 sommet..." alt="" coords="34,229,114,256"/>
+<area shape="rect" id="node3" href="$classElem__geom__base.html" title="Classe Elem_geom_base Cette classe est la classe de base pour la definition d&#39;elements geometriques c..." alt="" coords="5,155,143,181"/>
+<area shape="rect" id="node4" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="37,80,111,107"/>
+<area shape="rect" id="node5" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="38,5,110,32"/>
+</map>

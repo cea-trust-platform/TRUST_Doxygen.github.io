@@ -1,0 +1,13 @@
+<map id="Pb_Thermohydraulique_Especes_WC" name="Pb_Thermohydraulique_Especes_WC">
+<area shape="rect" id="node1" title=" " alt="" coords="180,603,352,644"/>
+<area shape="rect" id="node2" href="$classPb__Thermohydraulique__WC.html" title="classe Pb_Thermohydraulique_WC Cette classe represente un probleme de thermohydraulique en fluide wea..." alt="" coords="165,528,367,555"/>
+<area shape="rect" id="node3" href="$classPb__WC__base.html" title="classe Pb_WC_base Cette classe est censee factoriser ce qui est commun a l&#39;ensemble des problemes wea..." alt="" coords="139,453,244,480"/>
+<area shape="rect" id="node4" href="$classPb__Dilatable__base.html" title="classe Pb_Dilatable_base Cette classe est censee factoriser ce qui est commun a l&#39;ensemble des proble..." alt="" coords="120,379,263,405"/>
+<area shape="rect" id="node5" href="$classPb__Fluide__base.html" title="classe Pb_Fluide_base Cette classe a pour but de disposer d une classe amont pour la hierarchie des p..." alt="" coords="130,304,253,331"/>
+<area shape="rect" id="node6" href="$classProbleme__base.html" title="classe Probleme_base C&#39;est un Probleme_U qui n&#39;est pas un couplage. Le role d&#39;un Probleme_base est la..." alt="" coords="130,229,253,256"/>
+<area shape="rect" id="node7" href="$classChamps__compris__interface.html" title="classe Champs_compris_interface Cette classe contient une interface de methodes destinees a gerer les..." alt="" coords="5,155,204,181"/>
+<area shape="rect" id="node8" href="$classProbleme__U.html" title="classe Probleme_U Cette classe ajoute des specificites TRUST a l&#39;interface generale definie dans la c..." alt="" coords="229,155,330,181"/>
+<area shape="rect" id="node9" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="242,80,317,107"/>
+<area shape="rect" id="node10" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="243,5,315,32"/>
+<area shape="rect" id="node11" href="$classPb__Dilatable__Proto.html" title=" " alt="" coords="268,453,413,480"/>
+</map>

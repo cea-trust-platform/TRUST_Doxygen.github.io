@@ -1,0 +1,10 @@
+<map id="Interpolation_IBM_base" name="Interpolation_IBM_base">
+<area shape="rect" id="node1" title=": class Interpolation_IBM_base &lt;Description of class Interpolation_IBM_base&gt;" alt="" coords="248,64,423,91"/>
+<area shape="rect" id="node4" href="$classInterpolation__IBM__aucune.html" title=": class Interpolation_IBM_aucune &lt;Description of class Interpolation_IBM_aucune&gt;" alt="" coords="471,5,661,32"/>
+<area shape="rect" id="node5" href="$classInterpolation__IBM__elem__fluid.html" title=": class Interpolation_IBM_elem_fluid &lt;Description of class Interpolation_IBM_elem_fluid&gt;" alt="" coords="477,57,655,98"/>
+<area shape="rect" id="node8" href="$classInterpolation__IBM__mean__gradient.html" title=": class Interpolation_IBM_mean_gradient &lt;Description of class Interpolation_IBM_mean_gradient&gt;" alt="" coords="475,122,657,163"/>
+<area shape="rect" id="node2" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="125,64,200,91"/>
+<area shape="rect" id="node3" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="5,64,77,91"/>
+<area shape="rect" id="node6" href="$classInterpolation__IBM__hybrid.html" title=": class Interpolation_IBM_hybrid &lt;Description of class Interpolation_IBM_hybrid&gt;" alt="" coords="709,35,895,61"/>
+<area shape="rect" id="node7" href="$classInterpolation__IBM__power__law__tbl.html" title=": class Interpolation_IBM_power_law_tbl &lt;Description of class Interpolation_IBM_power_law_tbl&gt;" alt="" coords="710,86,894,127"/>
+</map>

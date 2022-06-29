@@ -1,0 +1,12 @@
+<map id="Op_Diff_PolyMAC_base" name="Op_Diff_PolyMAC_base">
+<area shape="rect" id="node1" title="class Op_Diff_PolyMAC_base Classe de base des operateurs de diffusion PolyMAC" alt="" coords="140,319,313,345"/>
+<area shape="rect" id="node9" href="$classOp__Diff__PolyMAC__Elem.html" title=": class Op_Diff_PolyMAC_Elem &lt;Description of class Op_Diff_PolyMAC_Elem&gt;" alt="" coords="41,393,215,420"/>
+<area shape="rect" id="node10" href="$classOp__Diff__PolyMAC__Face.html" title=": class Op_Diff_PolyMAC_Face &lt;Description of class Op_Diff_PolyMAC_Face&gt;" alt="" coords="240,393,411,420"/>
+<area shape="rect" id="node2" href="$classOperateur__Diff__base.html" title="classe Operateur_Diff_base Cette classe est la base de la hierarchie des operateurs representant un t..." alt="" coords="149,244,304,271"/>
+<area shape="rect" id="node3" href="$classOperateur__base.html" title="classe Operateur_base Classe est la base de la hierarchie des objets representant un operateur utilis..." alt="" coords="77,162,203,189"/>
+<area shape="rect" id="node4" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="5,80,80,107"/>
+<area shape="rect" id="node5" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="7,5,79,32"/>
+<area shape="rect" id="node6" href="$classMorEqn.html" title="classe MorEqn Classe qui regroupe les fonctionnalites de liaison avec une Equation...." alt="" coords="105,80,175,107"/>
+<area shape="rect" id="node7" href="$classChamps__compris__interface.html" title="classe Champs_compris_interface Cette classe contient une interface de methodes destinees a gerer les..." alt="" coords="199,80,398,107"/>
+<area shape="rect" id="node8" href="$classSupport__Champ__Masse__Volumique.html" title=" " alt="" coords="227,155,402,196"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="List_RefObjU" name="List_RefObjU">
+<area shape="rect" id="node1" title="classe Equation_base Le role d&#39;une equation est le calcul d&#39;un ou plusieurs champs...." alt="" coords="5,229,112,256"/>
+<area shape="rect" id="node2" href="$classliste.html" title="Les classes liste et liste_curseur representent une liste de Deriv&lt;Objet_U&gt; et un curseur associe...." alt="" coords="33,155,84,181"/>
+<area shape="rect" id="node3" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="21,80,96,107"/>
+<area shape="rect" id="node4" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="23,5,95,32"/>
+</map>

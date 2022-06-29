@@ -1,0 +1,6 @@
+<map id="Postraitement" name="Postraitement">
+<area shape="rect" id="node1" title="classe Postraitement La classe est dotee &#45;d une liste de champs generiques champs_post_complet_ qui c..." alt="" coords="24,229,139,256"/>
+<area shape="rect" id="node2" href="$classPostraitement__base.html" title="Classe de base pour l&#39;ensemble des postraitements." alt="" coords="5,155,157,181"/>
+<area shape="rect" id="node3" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="44,80,119,107"/>
+<area shape="rect" id="node4" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="45,5,117,32"/>
+</map>

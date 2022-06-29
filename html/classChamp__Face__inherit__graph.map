@@ -1,0 +1,12 @@
+<map id="Champ_Face" name="Champ_Face">
+<area shape="rect" id="node1" title="class Champ_Face Cette classe sert a representer un champ vectoriel dont on ne calcule que les compos..." alt="" coords="248,379,352,405"/>
+<area shape="rect" id="node2" href="$classChamp__Inc__base.html" title="Classe Champ_Inc_base Classe de base des champs inconnues qui sont les champs calcules par une equati..." alt="" coords="135,304,267,331"/>
+<area shape="rect" id="node3" href="$classChamp__base.html" title="classe Champ_base Cette classe est la base de la hierarchie des champs. Ses membres sont les attribut..." alt="" coords="59,229,165,256"/>
+<area shape="rect" id="node4" href="$classField__base.html" title=" " alt="" coords="5,155,96,181"/>
+<area shape="rect" id="node5" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="13,80,88,107"/>
+<area shape="rect" id="node6" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="15,5,87,32"/>
+<area shape="rect" id="node7" href="$classChamp__Proto.html" title="classe Champ_Proto Classe representant un prototype de Champ. Tous les classes representant des champ..." alt="" coords="120,155,229,181"/>
+<area shape="rect" id="node8" href="$classMorEqn.html" title="classe MorEqn Classe qui regroupe les fonctionnalites de liaison avec une Equation...." alt="" coords="190,229,261,256"/>
+<area shape="rect" id="node9" href="$classChamp__Face__implementation.html" title=" " alt="" coords="291,304,506,331"/>
+<area shape="rect" id="node10" href="$classChamp__implementation.html" title=" " alt="" coords="309,229,488,256"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Raccord_base" name="Raccord_base">
+<area shape="rect" id="node1" title="Classe Raccord_base Cette classe est simplement une frontiere, c&#39;est la classe de base de la hierarch..." alt="" coords="160,229,272,256"/>
+<area shape="rect" id="node5" href="$classRaccord__distant.html" title="Classe Raccord_distant Cette classe represente un raccord entre 2 probleme dont un est resolu par Tri..." alt="" coords="81,304,207,331"/>
+<area shape="rect" id="node7" href="$classRaccord__local.html" title="Classe Raccord_local Cette classe represente un raccord entre 2 probleme resolus par Trio&#45;U." alt="" coords="251,304,363,331"/>
+<area shape="rect" id="node2" href="$classFrontiere.html" title="Classe Frontiere. Une Frontiere decrit une partie de la frontiere d&#39;une Zone, elle possede un Nom,..." alt="" coords="176,155,256,181"/>
+<area shape="rect" id="node3" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="179,80,253,107"/>
+<area shape="rect" id="node4" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="180,5,252,32"/>
+<area shape="rect" id="node6" href="$classRaccord__distant__homogene.html" title=" " alt="" coords="5,379,208,405"/>
+<area shape="rect" id="node8" href="$classRaccord__local__homogene.html" title="Classe Raccord_local_homogene Cette classe represente un Raccord_local ou les maillages de part et d&#39;..." alt="" coords="233,379,421,405"/>
+</map>

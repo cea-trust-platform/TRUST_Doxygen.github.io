@@ -1,0 +1,8 @@
+<map id="MD_Vector_base2" name="MD_Vector_base2">
+<area shape="rect" id="node1" title=" " alt="" coords="102,229,241,256"/>
+<area shape="rect" id="node5" href="$classMD__Vector__composite.html" title="Metadata for a distributed composite vector. This class describes a vector that contains one or more ..." alt="" coords="5,304,172,331"/>
+<area shape="rect" id="node6" href="$classMD__Vector__std.html" title="C&#39;est le plus simple des descripteurs, utilise pour les tableaux de valeurs aux sommets,..." alt="" coords="196,304,315,331"/>
+<area shape="rect" id="node2" href="$classMD__Vector__base.html" title="Classe de base des descripteurs de vecteurs distribues. Voir la documentation des methodes dans MD_Ve..." alt="" coords="106,155,237,181"/>
+<area shape="rect" id="node3" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="134,80,209,107"/>
+<area shape="rect" id="node4" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="135,5,207,32"/>
+</map>

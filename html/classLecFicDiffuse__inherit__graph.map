@@ -1,0 +1,10 @@
+<map id="LecFicDiffuse" name="LecFicDiffuse">
+<area shape="rect" id="node1" title="Cette classe implemente les operateurs et les methodes virtuelles de la classe EFichier de la facon s..." alt="" coords="30,379,138,405"/>
+<area shape="rect" id="node8" href="$classLecFicDiffuseBin.html" title="Read a file in binary format. This class implements the operators and virtual methods of the EFichier..." alt="" coords="19,453,149,480"/>
+<area shape="rect" id="node2" href="$classLec__Diffuse__base.html" title="Classe de base des entrees diffusees: le processeur maitre lit les donnees dans la classe get_entree_..." alt="" coords="17,304,151,331"/>
+<area shape="rect" id="node3" href="$classEFichier.html" title="Fichier en lecture Cette classe est a la classe C++ ifstream ce que la classe Entree est a la classe ..." alt="" coords="47,229,121,256"/>
+<area shape="rect" id="node4" href="$classEntree__Fichier__base.html" title="Fichier en lecture Cette classe est a la classe C++ ifstream ce que la classe Entree est a la classe ..." alt="" coords="8,155,160,181"/>
+<area shape="rect" id="node5" href="$classEntree.html" title="Classe de definition des operateurs et methodes pour toute lecture dans un flot d&#39;entree&lt;br&gt;(fichier,..." alt="" coords="5,80,69,107"/>
+<area shape="rect" id="node6" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="93,80,168,107"/>
+<area shape="rect" id="node7" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="95,5,167,32"/>
+</map>

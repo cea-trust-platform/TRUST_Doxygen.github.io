@@ -1,0 +1,6 @@
+<map id="List_Ref_Probleme_U" name="List_Ref_Probleme_U">
+<area shape="rect" id="node1" title=" " alt="" coords="5,229,165,256"/>
+<area shape="rect" id="node2" href="$classliste.html" title="Les classes liste et liste_curseur representent une liste de Deriv&lt;Objet_U&gt; et un curseur associe...." alt="" coords="60,155,111,181"/>
+<area shape="rect" id="node3" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="48,80,123,107"/>
+<area shape="rect" id="node4" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="49,5,121,32"/>
+</map>

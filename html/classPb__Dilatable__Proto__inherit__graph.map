@@ -1,0 +1,9 @@
+<map id="Pb_Dilatable_Proto" name="Pb_Dilatable_Proto">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,151,134"/>
+<area shape="rect" id="node2" href="$classPb__Hydraulique__Melange__Binaire__QC.html" title="classe Pb_Hydraulique_Melange_Binaire_QC Cette classe represente un probleme de hydraulique binaire e..." alt="" coords="206,5,393,47"/>
+<area shape="rect" id="node3" href="$classPb__Hydraulique__Melange__Binaire__WC.html" title="classe Pb_Hydraulique_Melange_Binaire_WC Cette classe represente un probleme de hydraulique binaire e..." alt="" coords="206,71,393,112"/>
+<area shape="rect" id="node4" href="$classPb__Thermohydraulique__QC.html" title="classe Pb_Thermohydraulique_QC Cette classe represente un probleme de thermohydraulique en fluide qua..." alt="" coords="200,137,399,163"/>
+<area shape="rect" id="node6" href="$classPb__Thermohydraulique__WC.html" title="classe Pb_Thermohydraulique_WC Cette classe represente un probleme de thermohydraulique en fluide wea..." alt="" coords="199,191,400,218"/>
+<area shape="rect" id="node5" href="$classPb__Thermohydraulique__Especes__QC.html" title=" " alt="" coords="448,125,620,167"/>
+<area shape="rect" id="node7" href="$classPb__Thermohydraulique__Especes__WC.html" title=" " alt="" coords="448,191,620,232"/>
+</map>

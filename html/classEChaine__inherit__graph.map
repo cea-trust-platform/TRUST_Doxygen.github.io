@@ -1,0 +1,4 @@
+<map id="EChaine" name="EChaine">
+<area shape="rect" id="node1" title="Une entree dont la source est une chaine de caracteres. Le constructeur cree sa propre copie de la ch..." alt="" coords="5,80,80,107"/>
+<area shape="rect" id="node2" href="$classEntree.html" title="Classe de definition des operateurs et methodes pour toute lecture dans un flot d&#39;entree&lt;br&gt;(fichier,..." alt="" coords="11,5,75,32"/>
+</map>

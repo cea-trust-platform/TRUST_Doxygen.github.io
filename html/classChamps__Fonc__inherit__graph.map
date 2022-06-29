@@ -1,0 +1,7 @@
+<map id="Champs_Fonc" name="Champs_Fonc">
+<area shape="rect" id="node1" title="classe Champs_Fonc Liste de Champ_Fonc declaree grace a la macro LIST(X)" alt="" coords="17,304,129,331"/>
+<area shape="rect" id="node2" href="$classList__Champ__Fonc.html" title=" " alt="" coords="5,229,140,256"/>
+<area shape="rect" id="node3" href="$classliste.html" title="Les classes liste et liste_curseur representent une liste de Deriv&lt;Objet_U&gt; et un curseur associe...." alt="" coords="47,155,98,181"/>
+<area shape="rect" id="node4" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="35,80,110,107"/>
+<area shape="rect" id="node5" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="37,5,109,32"/>
+</map>

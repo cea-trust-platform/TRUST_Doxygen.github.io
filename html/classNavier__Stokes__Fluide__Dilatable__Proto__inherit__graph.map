@@ -1,0 +1,6 @@
+<map id="Navier_Stokes_Fluide_Dilatable_Proto" name="Navier_Stokes_Fluide_Dilatable_Proto">
+<area shape="rect" id="node1" title="classe Navier_Stokes_Fluide_Dilatable_Proto" alt="" coords="77,5,240,47"/>
+<area shape="rect" id="node2" href="$classNavier__Stokes__Fluide__Dilatable__base.html" title="classe Navier_Stokes_Fluide_Dilatable_base Cette classe basse porte les termes de l&#39;equation de la dy..." alt="" coords="77,95,240,136"/>
+<area shape="rect" id="node3" href="$classNavier__Stokes__QC.html" title="classe Navier_Stokes_QC Cette classe porte les termes de l&#39;equation de la dynamique pour un fluide sa..." alt="" coords="5,184,147,211"/>
+<area shape="rect" id="node4" href="$classNavier__Stokes__WC.html" title="classe Navier_Stokes_WC Cette classe porte les termes de l&#39;equation de la dynamique pour un fluide sa..." alt="" coords="171,184,315,211"/>
+</map>

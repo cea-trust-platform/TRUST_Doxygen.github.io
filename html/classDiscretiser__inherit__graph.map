@@ -1,0 +1,6 @@
+<map id="Discretiser" name="Discretiser">
+<area shape="rect" id="node1" title="classe Discretiser Discretise un probleme: {DANS LE JEU DE DONNEES] Discretiser pb dis Discretise le ..." alt="" coords="5,229,97,256"/>
+<area shape="rect" id="node2" href="$classInterprete.html" title="Classe de base des objets &quot;interprete&quot;. Ces objets definissent des actions a realiser lorsqu&#39;on les r..." alt="" coords="8,155,95,181"/>
+<area shape="rect" id="node3" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="14,80,89,107"/>
+<area shape="rect" id="node4" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="15,5,87,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="VEFPreP1B" name="VEFPreP1B">
+<area shape="rect" id="node1" title=" " alt="" coords="34,453,127,480"/>
+<area shape="rect" id="node2" href="$classVEF__discretisation.html" title=" " alt="" coords="9,379,152,405"/>
+<area shape="rect" id="node3" href="$classDiscret__Thyd.html" title="classe Discret_Thyd Cette classe est la classe de base representant une discretisation spatiale appli..." alt="" coords="27,304,134,331"/>
+<area shape="rect" id="node4" href="$classDiscret__Thermique.html" title="Class Discret_Thermique Cette classe est la classe de base representant une discretisation spatiale a..." alt="" coords="8,229,153,256"/>
+<area shape="rect" id="node5" href="$classDiscretisation__base.html" title="classe Discretisation_base Cette classe represente un schema de discretisation en espace,..." alt="" coords="5,155,156,181"/>
+<area shape="rect" id="node6" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="43,80,118,107"/>
+<area shape="rect" id="node7" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="45,5,117,32"/>
+</map>

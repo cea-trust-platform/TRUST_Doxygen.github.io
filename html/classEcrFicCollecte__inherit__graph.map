@@ -1,0 +1,9 @@
+<map id="EcrFicCollecte" name="EcrFicCollecte">
+<area shape="rect" id="node1" title="Ecriture dans un fichier Cette classe implemente les operateurs et les methodes virtuelles de la clas..." alt="" coords="24,304,137,331"/>
+<area shape="rect" id="node7" href="$classEcrFicCollecteBin.html" title="Ecriture dans un fichier au format binaire Cette classe implemente les operateurs et les methodes vir..." alt="" coords="13,379,148,405"/>
+<area shape="rect" id="node2" href="$classSFichier.html" title="Cette classe est a la classe C++ ofstream ce que la classe Sortie est a la classe C++ ostream Elle re..." alt="" coords="44,229,117,256"/>
+<area shape="rect" id="node3" href="$classSortie__Fichier__base.html" title=" " alt="" coords="7,155,155,181"/>
+<area shape="rect" id="node4" href="$classSortie.html" title="Classe de base des flux de sortie. Elle sait ecrire des types simples&lt;br&gt;(entiers,..." alt="" coords="5,80,65,107"/>
+<area shape="rect" id="node5" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="90,80,165,107"/>
+<area shape="rect" id="node6" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="91,5,163,32"/>
+</map>

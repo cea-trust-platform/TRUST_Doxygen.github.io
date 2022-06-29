@@ -1,0 +1,9 @@
+<map id="LecFicDistribueBin" name="LecFicDistribueBin">
+<area shape="rect" id="node1" title="Lecture dans un fichier au format binaire. Cette classe implemente les operateurs et les methodes vir..." alt="" coords="13,379,155,405"/>
+<area shape="rect" id="node2" href="$classLecFicDistribue.html" title="Cette classe implemente les operateurs et les methodes virtuelles de la classe EFichier de la facon s..." alt="" coords="23,304,145,331"/>
+<area shape="rect" id="node3" href="$classEFichier.html" title="Fichier en lecture Cette classe est a la classe C++ ifstream ce que la classe Entree est a la classe ..." alt="" coords="47,229,121,256"/>
+<area shape="rect" id="node4" href="$classEntree__Fichier__base.html" title="Fichier en lecture Cette classe est a la classe C++ ifstream ce que la classe Entree est a la classe ..." alt="" coords="8,155,160,181"/>
+<area shape="rect" id="node5" href="$classEntree.html" title="Classe de definition des operateurs et methodes pour toute lecture dans un flot d&#39;entree&lt;br&gt;(fichier,..." alt="" coords="5,80,69,107"/>
+<area shape="rect" id="node6" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="93,80,168,107"/>
+<area shape="rect" id="node7" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="95,5,167,32"/>
+</map>

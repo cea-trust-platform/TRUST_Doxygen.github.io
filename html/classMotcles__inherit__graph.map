@@ -1,0 +1,7 @@
+<map id="Motcles" name="Motcles">
+<area shape="rect" id="node1" title="Un tableau d&#39;objets de la classe Motcle." alt="" coords="19,304,93,331"/>
+<area shape="rect" id="node2" href="$classVect__Motcle.html" title=" " alt="" coords="5,229,107,256"/>
+<area shape="rect" id="node3" href="$classvect__impl.html" title=" " alt="" coords="13,155,99,181"/>
+<area shape="rect" id="node4" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="19,80,93,107"/>
+<area shape="rect" id="node5" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="20,5,92,32"/>
+</map>

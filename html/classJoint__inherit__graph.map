@@ -1,0 +1,6 @@
+<map id="Joint" name="Joint">
+<area shape="rect" id="node1" title="La classe Joint est une Frontiere qui contient les faces et les sommets de joint avec la zone PEvoisi..." alt="" coords="20,229,71,256"/>
+<area shape="rect" id="node2" href="$classFrontiere.html" title="Classe Frontiere. Une Frontiere decrit une partie de la frontiere d&#39;une Zone, elle possede un Nom,..." alt="" coords="5,155,85,181"/>
+<area shape="rect" id="node3" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="8,80,83,107"/>
+<area shape="rect" id="node4" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="9,5,81,32"/>
+</map>

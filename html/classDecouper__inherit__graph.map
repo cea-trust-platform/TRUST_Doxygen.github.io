@@ -1,0 +1,6 @@
+<map id="Decouper" name="Decouper">
+<area shape="rect" id="node1" title="Interprete Decouper. Aucun algorithme ici, uniquement lecture de parametres dans le fichier ...." alt="" coords="7,229,91,256"/>
+<area shape="rect" id="node2" href="$classInterprete.html" title="Classe de base des objets &quot;interprete&quot;. Ces objets definissent des actions a realiser lorsqu&#39;on les r..." alt="" coords="5,155,92,181"/>
+<area shape="rect" id="node3" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="11,80,86,107"/>
+<area shape="rect" id="node4" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="13,5,85,32"/>
+</map>

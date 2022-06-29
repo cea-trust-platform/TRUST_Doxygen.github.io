@@ -1,0 +1,13 @@
+<map id="Champ_val_tot_sur_vol_VEF" name="Champ_val_tot_sur_vol_VEF">
+<area shape="rect" id="node1" title="classe Champ_val_tot_sur_vol_VEF derivee de Champ_val_tot_sur_vol_base Evaluation Somme_vol_poro_loc ..." alt="" coords="45,761,251,788"/>
+<area shape="rect" id="node2" href="$classChamp__val__tot__sur__vol__base.html" title="classe Champ_val_tot_sur_vol_base Classe de base derivee de Champ_Uniforme_Morceaux qui represente le..." alt="" coords="42,685,254,712"/>
+<area shape="rect" id="node3" href="$classChamp__Uniforme__Morceaux.html" title="classe Champ_Uniforme_Morceaux Cette classe represente champ constant par morceaux dans l&#39;espace et c..." alt="" coords="45,609,251,636"/>
+<area shape="rect" id="node4" href="$classTRUSTChamp__Morceaux__generique.html" title=" " alt="" coords="35,504,261,560"/>
+<area shape="rect" id="node5" href="$classChamp__Don__base.html" title=" " alt="" coords="73,309,212,336"/>
+<area shape="rect" id="node11" href="$classTRUSTChamp__Morceaux__generique.html" title=" " alt="" coords="164,385,345,427"/>
+<area shape="rect" id="node6" href="$classChamp__base.html" title="classe Champ_base Cette classe est la base de la hierarchie des champs. Ses membres sont les attribut..." alt="" coords="89,233,196,260"/>
+<area shape="rect" id="node7" href="$classField__base.html" title=" " alt="" coords="5,157,96,184"/>
+<area shape="rect" id="node8" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="13,81,88,108"/>
+<area shape="rect" id="node9" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="15,5,87,32"/>
+<area shape="rect" id="node10" href="$classChamp__Proto.html" title="classe Champ_Proto Classe representant un prototype de Champ. Tous les classes representant des champ..." alt="" coords="120,157,229,184"/>
+</map>

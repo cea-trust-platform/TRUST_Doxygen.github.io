@@ -1,0 +1,78 @@
+<map id="src/Kernel/Math/Matrices/Matrice_Dense.cpp" name="src/Kernel/Math/Matrices/Matrice_Dense.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="570,5,753,47"/>
+<area shape="rect" id="node2" href="$Matrice__Dense_8h.html" title=" " alt="" coords="533,95,664,121"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1517,1364,1597,1391"/>
+<area shape="rect" id="node75" title=" " alt="" coords="689,95,762,121"/>
+<area shape="rect" id="node76" href="$Lapack_8h.html" title=" " alt="" coords="121,169,201,196"/>
+<area shape="rect" id="node3" href="$Matrice__Base_8h.html" title=" " alt="" coords="537,244,660,271"/>
+<area shape="rect" id="node4" href="$TRUSTTab_8h.html" title=" " alt="" coords="617,319,716,345"/>
+<area shape="rect" id="node69" href="$Matrice__Morse_8h.html" title=" " alt="" coords="408,169,539,196"/>
+<area shape="rect" id="node5" href="$MD__Vector__base_8h.html" title=" " alt="" coords="487,617,630,644"/>
+<area shape="rect" id="node25" href="$TRUSTVect_8h.html" title=" " alt="" coords="881,393,986,420"/>
+<area shape="rect" id="node64" title=" " alt="" coords="1678,468,1746,495"/>
+<area shape="rect" id="node67" href="$TRUSTTab__tools_8tpp.html" title=" " alt="" coords="1010,393,1161,420"/>
+<area shape="rect" id="node68" href="$TRUSTTab_8tpp.html" title=" " alt="" coords="487,393,599,420"/>
+<area shape="rect" id="node6" href="$TRUSTTabs__forward_8h.html" title=" " alt="" coords="451,692,613,719"/>
+<area shape="rect" id="node7" href="$Objet__U_8h.html" title=" " alt="" coords="958,1140,1045,1167"/>
+<area shape="rect" id="node8" title=" " alt="" coords="515,1364,589,1391"/>
+<area shape="rect" id="node9" href="$DecBaseInst_8h.html" title=" " alt="" coords="753,1215,868,1241"/>
+<area shape="rect" id="node14" href="$EntreeSortie_8h.html" title=" " alt="" coords="1348,1215,1463,1241"/>
+<area shape="rect" id="node19" href="$Process_8h.html" title=" " alt="" coords="1622,1364,1706,1391"/>
+<area shape="rect" id="node10" href="$Cast_8h.html" title=" " alt="" coords="1031,1364,1094,1391"/>
+<area shape="rect" id="node11" href="$Type__info_8h.html" title=" " alt="" coords="691,1289,787,1316"/>
+<area shape="rect" id="node12" href="$Declare__Base_8h.html" title=" " alt="" coords="811,1289,933,1316"/>
+<area shape="rect" id="node13" href="$Declare__Inst_8h.html" title=" " alt="" coords="957,1289,1072,1316"/>
+<area shape="rect" id="node15" href="$Entree_8h.html" title=" " alt="" coords="1425,1289,1501,1316"/>
+<area shape="rect" id="node22" href="$Sortie_8h.html" title=" " alt="" coords="1525,1289,1597,1316"/>
+<area shape="rect" id="node24" href="$Separateur_8h.html" title=" " alt="" coords="1296,1289,1400,1316"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1341,1364,1408,1391"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1432,1364,1493,1391"/>
+<area shape="rect" id="node20" href="$arch_8h.html" title=" " alt="" coords="214,1364,277,1391"/>
+<area shape="rect" id="node21" href="$generique_8h.html" title=" " alt="" coords="196,1439,295,1465"/>
+<area shape="rect" id="node23" title=" " alt="" coords="1731,1364,1789,1391"/>
+<area shape="rect" id="node26" href="$MD__Vector__tools_8h.html" title=" " alt="" coords="269,617,411,644"/>
+<area shape="rect" id="node30" href="$communications_8h.html" title=" " alt="" coords="917,468,1059,495"/>
+<area shape="rect" id="node33" href="$TRUSTArray_8h.html" title=" " alt="" coords="737,841,847,868"/>
+<area shape="rect" id="node60" href="$DescStructure_8h.html" title=" " alt="" coords="1323,468,1448,495"/>
+<area shape="rect" id="node61" href="$MD__Vector_8h.html" title=" " alt="" coords="1186,468,1289,495"/>
+<area shape="rect" id="node63" title=" " alt="" coords="589,468,659,495"/>
+<area shape="rect" id="node65" href="$TRUSTVect__tools_8tpp.html" title=" " alt="" coords="684,468,841,495"/>
+<area shape="rect" id="node66" href="$TRUSTVect_8tpp.html" title=" " alt="" coords="1627,767,1746,793"/>
+<area shape="rect" id="node27" href="$Array__base_8h.html" title=" " alt="" coords="857,991,964,1017"/>
+<area shape="rect" id="node28" title=" " alt="" coords="236,692,292,719"/>
+<area shape="rect" id="node29" title=" " alt="" coords="316,692,367,719"/>
+<area shape="rect" id="node31" href="$communications__array_8h.html" title=" " alt="" coords="909,543,1091,569"/>
+<area shape="rect" id="node52" title=" " alt="" coords="706,543,798,569"/>
+<area shape="rect" id="node53" href="$Vect_8h.html" title=" " alt="" coords="1354,543,1417,569"/>
+<area shape="rect" id="node59" title=" " alt="" coords="822,543,885,569"/>
+<area shape="rect" id="node32" href="$Comm__Group_8h.html" title=" " alt="" coords="688,692,811,719"/>
+<area shape="rect" id="node51" href="$PE__Groups_8h.html" title=" " alt="" coords="797,617,899,644"/>
+<area shape="rect" id="node46" href="$Deriv__Comm__Group_8h.html" title=" " alt="" coords="739,767,904,793"/>
+<area shape="rect" id="node34" href="$TRUSTIterator_8h.html" title=" " alt="" coords="1147,1289,1271,1316"/>
+<area shape="rect" id="node35" href="$VTRUSTdata_8h.html" title=" " alt="" coords="589,916,704,943"/>
+<area shape="rect" id="node39" href="$Double_8h.html" title=" " alt="" coords="333,1065,413,1092"/>
+<area shape="rect" id="node42" title=" " alt="" coords="880,916,947,943"/>
+<area shape="rect" id="node43" href="$TRUSTArray__tools_8tpp.html" title=" " alt="" coords="971,916,1133,943"/>
+<area shape="rect" id="node44" href="$TRUSTArray_8tpp.html" title=" " alt="" coords="1157,916,1280,943"/>
+<area shape="rect" id="node36" href="$Memoire_8h.html" title=" " alt="" coords="641,991,733,1017"/>
+<area shape="rect" id="node38" title=" " alt="" coords="757,991,833,1017"/>
+<area shape="rect" id="node37" href="$Memoire__ptr_8h.html" title=" " alt="" coords="641,1065,757,1092"/>
+<area shape="rect" id="node40" href="$blas1_8h.html" title=" " alt="" coords="123,1215,192,1241"/>
+<area shape="rect" id="node41" title=" " alt="" coords="342,1140,405,1167"/>
+<area shape="rect" id="node45" title=" " alt="" coords="1183,991,1254,1017"/>
+<area shape="rect" id="node47" href="$Deriv_8h.html" title=" " alt="" coords="1269,841,1337,868"/>
+<area shape="rect" id="node48" href="$MacDeriv_8h.html" title=" " alt="" coords="1305,916,1399,943"/>
+<area shape="rect" id="node49" href="$Deriv___8h.html" title=" " alt="" coords="1297,991,1373,1017"/>
+<area shape="rect" id="node50" href="$O__U__Ptr_8h.html" title=" " alt="" coords="1157,1065,1243,1092"/>
+<area shape="rect" id="node54" href="$MacVect_8h.html" title=" " alt="" coords="1351,617,1441,644"/>
+<area shape="rect" id="node55" href="$Nom_8h.html" title=" " alt="" coords="1438,1065,1503,1092"/>
+<area shape="rect" id="node57" href="$vect__impl_8h.html" title=" " alt="" coords="1356,692,1455,719"/>
+<area shape="rect" id="node56" title=" " alt="" coords="1437,1140,1504,1167"/>
+<area shape="rect" id="node58" href="$DerOu___8h.html" title=" " alt="" coords="1368,767,1451,793"/>
+<area shape="rect" id="node62" href="$Deriv__MD__Vector__base_8h.html" title=" " alt="" coords="1160,767,1344,793"/>
+<area shape="rect" id="node70" href="$TRUSTLists_8h.html" title=" " alt="" coords="172,319,279,345"/>
+<area shape="rect" id="node74" title=" " alt="" coords="276,244,361,271"/>
+<area shape="rect" id="node71" href="$TRUSTList_8h.html" title=" " alt="" coords="195,991,295,1017"/>
+<area shape="rect" id="node72" href="$TRUSTListElem_8h.html" title=" " alt="" coords="179,1289,312,1316"/>
+<area shape="rect" id="node73" href="$TRUSTList_8tpp.html" title=" " alt="" coords="94,1065,207,1092"/>
+</map>

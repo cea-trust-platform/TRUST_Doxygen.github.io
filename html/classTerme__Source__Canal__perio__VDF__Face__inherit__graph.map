@@ -1,0 +1,12 @@
+<map id="Terme_Source_Canal_perio_VDF_Face" name="Terme_Source_Canal_perio_VDF_Face">
+<area shape="rect" id="node1" title=" " alt="" coords="729,71,887,112"/>
+<area shape="rect" id="node8" href="$classTerme__Source__Canal__perio__QC__VDF__Face.html" title=" " alt="" coords="954,5,1113,47"/>
+<area shape="rect" id="node9" href="$classTerme__Source__Canal__perio__VDF__Front__Tracking.html" title=" " alt="" coords="935,71,1132,112"/>
+<area shape="rect" id="node10" href="$classTerme__Source__Canal__perio__VDF__P0.html" title="class Terme_Source_Canal_perio_VDF_P0 Cette classe permet de conserver le debit dans une simulation t..." alt="" coords="955,136,1112,177"/>
+<area shape="rect" id="node2" href="$classTerme__Source__Canal__perio.html" title="Source term to keep a constant flow rate in a channel with periodic boundary conditions." alt="" coords="524,71,681,112"/>
+<area shape="rect" id="node3" href="$classSource__base.html" title="classe Source_base Un objet Source_base est un terme apparaissant au second membre d&#39;une equation...." alt="" coords="372,78,476,105"/>
+<area shape="rect" id="node4" href="$classChamps__compris__interface.html" title="classe Champs_compris_interface Cette classe contient une interface de methodes destinees a gerer les..." alt="" coords="125,27,324,54"/>
+<area shape="rect" id="node5" href="$classMorEqn.html" title="classe MorEqn Classe qui regroupe les fonctionnalites de liaison avec une Equation...." alt="" coords="189,78,260,105"/>
+<area shape="rect" id="node6" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="187,129,262,155"/>
+<area shape="rect" id="node7" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="5,129,77,155"/>
+</map>

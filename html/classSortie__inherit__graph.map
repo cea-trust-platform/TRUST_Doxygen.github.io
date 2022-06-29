@@ -1,0 +1,16 @@
+<map id="Sortie" name="Sortie">
+<area shape="rect" id="node1" title="Classe de base des flux de sortie. Elle sait ecrire des types simples&lt;br&gt;(entiers,..." alt="" coords="336,5,396,32"/>
+<area shape="rect" id="node2" href="$classOBuffer.html" title=" " alt="" coords="5,80,76,107"/>
+<area shape="rect" id="node3" href="$classOutputCommBuffer.html" title=": Classe outil utilisee exclusivement par Schema_Comm. C&#39;est une classe derivee de Entree dont le str..." alt="" coords="100,80,248,107"/>
+<area shape="rect" id="node4" href="$classSChaine.html" title="Cette classe derivee de Sortie empile ce qu&#39;on lui envoie dans une chaine de caracteres...." alt="" coords="273,80,347,107"/>
+<area shape="rect" id="node5" href="$classSortie__Brute.html" title="This derived class of Sortie stacks whatever it receives in an internal binary buffer...." alt="" coords="372,80,475,107"/>
+<area shape="rect" id="node6" href="$classSortie__Fichier__base.html" title=" " alt="" coords="499,80,647,107"/>
+<area shape="rect" id="node14" href="$classSortie__Nulle.html" title="Classe derivee de Sortie qui ne sort les donnees nulle part (c&#39;est une poubelle) Classe utilisee dans..." alt="" coords="671,80,773,107"/>
+<area shape="rect" id="node7" href="$classSFichier.html" title="Cette classe est a la classe C++ ofstream ce que la classe Sortie est a la classe C++ ostream Elle re..." alt="" coords="536,155,609,181"/>
+<area shape="rect" id="node8" href="$classEcrFicCollecte.html" title="Ecriture dans un fichier Cette classe implemente les operateurs et les methodes virtuelles de la clas..." alt="" coords="299,229,412,256"/>
+<area shape="rect" id="node10" href="$classEcrFicPartage.html" title=" " alt="" coords="442,229,551,256"/>
+<area shape="rect" id="node12" href="$classEcrFicPartageMPIIO.html" title="Class to use MPI&#45;IO to write in a single file." alt="" coords="575,229,722,256"/>
+<area shape="rect" id="node13" href="$classSFichierBin.html" title="Ecriture dans un fichier d&#39;objets ecrits au format binaire." alt="" coords="747,229,841,256"/>
+<area shape="rect" id="node9" href="$classEcrFicCollecteBin.html" title="Ecriture dans un fichier au format binaire Cette classe implemente les operateurs et les methodes vir..." alt="" coords="277,304,412,331"/>
+<area shape="rect" id="node11" href="$classEcrFicPartageBin.html" title="Ecriture dans un fichier partage Cette classe derive de Ecr_Fic_Par, en utilisant une sortie en binai..." alt="" coords="437,304,567,331"/>
+</map>

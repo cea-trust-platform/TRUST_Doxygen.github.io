@@ -1,0 +1,13 @@
+<map id="Perte_Charge_PolyMAC" name="Perte_Charge_PolyMAC">
+<area shape="rect" id="node1" title=" " alt="" coords="571,111,745,138"/>
+<area shape="rect" id="node8" href="$classPerte__Charge__Anisotrope__PolyMAC__Face.html" title=" " alt="" coords="803,5,990,47"/>
+<area shape="rect" id="node9" href="$classPerte__Charge__Circulaire__PolyMAC__Face.html" title=" " alt="" coords="807,71,986,112"/>
+<area shape="rect" id="node10" href="$classPerte__Charge__Directionnelle__PolyMAC__Face.html" title=" " alt="" coords="793,136,1000,177"/>
+<area shape="rect" id="node11" href="$classPerte__Charge__Isotrope__PolyMAC__Face.html" title=" " alt="" coords="812,201,981,243"/>
+<area shape="rect" id="node2" href="$classSource__base.html" title="classe Source_base Un objet Source_base est un terme apparaissant au second membre d&#39;une equation...." alt="" coords="395,86,499,113"/>
+<area shape="rect" id="node3" href="$classChamps__compris__interface.html" title="classe Champs_compris_interface Cette classe contient une interface de methodes destinees a gerer les..." alt="" coords="125,35,324,62"/>
+<area shape="rect" id="node4" href="$classMorEqn.html" title="classe MorEqn Classe qui regroupe les fonctionnalites de liaison avec une Equation...." alt="" coords="189,86,260,113"/>
+<area shape="rect" id="node5" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="187,137,262,163"/>
+<area shape="rect" id="node6" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="5,137,77,163"/>
+<area shape="rect" id="node7" href="$classTerme__Source__Qdm.html" title="Classe Terme_Source_Qdm Cette classe represente un terme source qui figure dans l&#39;equation de la dyna..." alt="" coords="372,137,523,163"/>
+</map>

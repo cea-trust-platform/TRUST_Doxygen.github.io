@@ -1,0 +1,4 @@
+<map id="SChaine" name="SChaine">
+<area shape="rect" id="node1" title="Cette classe derivee de Sortie empile ce qu&#39;on lui envoie dans une chaine de caracteres...." alt="" coords="5,80,80,107"/>
+<area shape="rect" id="node2" href="$classSortie.html" title="Classe de base des flux de sortie. Elle sait ecrire des types simples&lt;br&gt;(entiers,..." alt="" coords="13,5,73,32"/>
+</map>

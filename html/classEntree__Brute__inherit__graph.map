@@ -1,0 +1,4 @@
+<map id="Entree_Brute" name="Entree_Brute">
+<area shape="rect" id="node1" title="An Entree whose main source of data is an arbitrary binary buffer set using the set_data() method...." alt="" coords="5,80,112,107"/>
+<area shape="rect" id="node2" href="$classEntree.html" title="Classe de definition des operateurs et methodes pour toute lecture dans un flot d&#39;entree&lt;br&gt;(fichier,..." alt="" coords="27,5,91,32"/>
+</map>

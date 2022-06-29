@@ -1,0 +1,9 @@
+<map id="PolyMAC_discretisation" name="PolyMAC_discretisation">
+<area shape="rect" id="node1" title=" " alt="" coords="17,379,192,405"/>
+<area shape="rect" id="node7" href="$classPolyMAC__P0__discretisation.html" title="class PolyMAC_P0_discretisation (schema de base) Classe qui gere la dicretisation PolyMAC_P0 du probl..." alt="" coords="5,453,204,480"/>
+<area shape="rect" id="node2" href="$classDiscret__Thyd.html" title="classe Discret_Thyd Cette classe est la classe de base representant une discretisation spatiale appli..." alt="" coords="51,304,158,331"/>
+<area shape="rect" id="node3" href="$classDiscret__Thermique.html" title="Class Discret_Thermique Cette classe est la classe de base representant une discretisation spatiale a..." alt="" coords="32,229,177,256"/>
+<area shape="rect" id="node4" href="$classDiscretisation__base.html" title="classe Discretisation_base Cette classe represente un schema de discretisation en espace,..." alt="" coords="29,155,180,181"/>
+<area shape="rect" id="node5" href="$classObjet__U.html" title="classe Objet_U Cette classe est la classe de base des Objets de TRUST Dans les classes derivees de Ob..." alt="" coords="67,80,142,107"/>
+<area shape="rect" id="node6" href="$classProcess.html" title="Classe de base de TRUST (notamment Objet_U). Elle fournit quelques services de base accessibles de pa..." alt="" coords="69,5,141,32"/>
+</map>
